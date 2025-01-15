@@ -1,0 +1,6 @@
+[22:34:50.564][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
+[22:34:50.661][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[22:34:50.793][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[22:34:50.797][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[22:34:51.953][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[22:34:51.956][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.49'
