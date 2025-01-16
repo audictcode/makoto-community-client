@@ -56,6 +56,9 @@
     "converter": true,
     "breeder": true
   },
+  "twilightforest": {
+    "quest_ram_wool": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -66,6 +69,9 @@
   },
   "waystones": {
     "waystone": true
+  },
+  "corpse": {
+    "corpse": true
   },
   "securitycraft": {
     "showowner": true,

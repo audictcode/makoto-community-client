@@ -1,4 +1,5 @@
 {
+  "corpse:corpse": null,
   "easy_villagers:breeder": null,
   "easy_villagers:converter": null,
   "easy_villagers:villager": null,
@@ -49,5 +50,6 @@
   "minecraft:waxed": null,
   "minecraft:zombie_villager": null,
   "securitycraft:info": null,
+  "twilightforest:quest_ram_wool": null,
   "waystones:waystone": null
 }
